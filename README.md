@@ -6,4 +6,4 @@ poi-3.17 <<<It may work with other versions, but we haven't tested with them>>>.
 weka-3.9.2
 
 ## DataSets
-The dataset is too large to upload directly. If the paper is accepted, we will provide a personal website link to access the complete dataset.
+The dataset is too large to upload directly. We will provide a personal website link to access the complete dataset later.
